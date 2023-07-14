@@ -147,7 +147,7 @@ body {
 
 .portfolio__text__subtitle_small::before {
   background: rgb(255, 234, 175);
-  animation: blinking 1.5s steps(16) infinite;
+  animation: blinking 1.7s steps(16) infinite;
 }
 
 
@@ -175,7 +175,7 @@ body {
 
 .portfolio__text__subtitle_extra_small::before {
   background: rgb(255, 234, 175);
-  animation: blinking 1.5s steps(16) infinite;
+  animation: blinking 1.7s steps(16) infinite;
 }
 
 .portfolio__text__subtitle::before,
