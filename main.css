@@ -47,17 +47,17 @@ body {
 }
 
 .inner {
-  position: relative;
-  background-color: rgb(255, 234, 175);
-  margin: 6rem;
-  width: min( 80%, 30rem );
-  height: min( 83%, 50rem );
-  max-width: 100%;
-  border-radius: 1rem;
-  display: flex;
-  justify-content: center;
+    position: relative;
+    background-color: rgb(255, 234, 175);
+    margin: 6rem;
+    width: min( 80%, 30rem );
+    height: min( 83%, 50rem );
+    max-width: 100%;
+    border-radius: 1rem;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: center;
 }
-
 .portfolio {
   padding: 3% 5%;
   text-align: center;
